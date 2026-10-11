@@ -52,6 +52,23 @@ Docker Compose orchestrates all services and configures their communication.
 - Docker Desktop
 - Git
 
+## Screenshots
+
+TaskFlow features a modern dark interface with emerald green accents, subtle animations, and a responsive layout.
+
+### Dashboard
+
+![TaskFlow dashboard](assets/Screenshots/Task%20ADD.png)
+
+### Task management
+
+![TaskFlow task list](assets/Screenshots/available%20tasks.png)
+
+### Responsive design
+
+![TaskFlow responsive interface](assets/Screenshots/narrow%20window.png)
+
+
 ### Installation
 
 1. Clone the repository:
